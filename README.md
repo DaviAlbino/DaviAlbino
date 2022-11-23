@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
  ##
   
-### 👨‍💻 Linguagens e ferramentas
+### 👨‍💻 Coding Languages and Techs:
   
 <br />
 <div align="left">
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
-  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
