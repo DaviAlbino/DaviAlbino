@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 - 🎓 &nbsp; I'm currently a Full-Stack Developer student at Trybe School.
 - 📫 &nbsp; How to reach me: negroalbino_@hotmail.com
  ##
+
+[![Davi Albino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAlbino)](https://github.com/DaviAlbino/github-readme-stats)
   
-  <div align="center">
+<!-- <div align="center">
   <a href="https://github.com/DaviAlbino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviAlbino&show_icons=true&theme=jolly&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlbino&layout=compact&langs_count=10&theme=jolly&hide_border=true"/>
-</div>
+</div> -->
   
 ### 👨‍💻 Coding Languages and Techs:
   
