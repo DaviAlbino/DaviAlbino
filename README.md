@@ -21,12 +21,16 @@ Here are some ideas to get you started:
  ##
 
 <!-- [![Davi Albino's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAlbino)](https://github.com/DaviAlbino/github-readme-stats) -->
+
+
+![DaviAlbino's github stats](https://github-readme-stats-one-virid-55.vercel.app/api?username=DaviAlbino&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats-one-virid-55.vercel.app/api/top-langs/?username=DaviAlbino&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact)
+ ![GitHub Streak](https://streak-stats.demolab.com?user=DaviAlbino&theme=synthwave&locale=pt_BR)
   
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/DaviAlbino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviAlbino&show_icons=true&theme=jolly&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAlbino&layout=compact&langs_count=10&theme=jolly&hide_border=true"/>
-</div>
+</div> -->
   
 ### 👨‍💻 Coding Languages and Techs:
   
