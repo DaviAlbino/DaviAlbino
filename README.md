@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello Everyone! My name is Davi! 😄
 ## About me
-- 🔭 &nbsp; I'm currently learning back-end and practicing front-end.
+- 🔭 &nbsp; I'm currently working as a Python Full-Stack Developer.
 - 🎓 &nbsp; In 2023, I finished a Full-Stack Web Development course at Trybe School.
 - 📫 &nbsp; How to reach me: negroalbino_@hotmail.com
  ##
